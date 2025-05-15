@@ -9,7 +9,7 @@ Welcome to the **Car Price Estimation ML Model** project! This application lever
 
 Below is a screenshot of the Streamlit interface:
 
-![App UI](app_ui_screenshot.png)![image](https://github.com/user-attachments/assets/3deab9dc-9f5e-4444-9ae1-a0a178c99f78)
+![image](https://github.com/user-attachments/assets/3deab9dc-9f5e-4444-9ae1-a0a178c99f78)
 
 
 ---
