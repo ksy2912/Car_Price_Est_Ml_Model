@@ -111,9 +111,7 @@ The `app.py` script creates an interactive web application using Streamlit, allo
 
 The selected model achieved the following performance metrics on the test set:
 
-- **R² Score**: *e.g., 0.92*
-- **MAE**: *e.g., ₹1.2 lakhs*
-- **RMSE**: *e.g., ₹1.5 lakhs*
+- **R² Score**: *0.92*
 
 *Note: Replace the above metrics with actual values from your model evaluation.*
 
