@@ -140,4 +140,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact Khushi9356966@gmail.com.
+For any inquiries or feedback, please contact [your email address].
+
+---
+
+## 🖼️ App UI Preview
+
+Below is a screenshot of the Streamlit interface:
+
+![App UI](app_ui_screenshot.png)
