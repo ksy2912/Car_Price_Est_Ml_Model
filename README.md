@@ -5,7 +5,14 @@ Welcome to the **Car Price Estimation ML Model** project! This application lever
 🔗 **Live Demo**: [Streamlit App](https://ksy2912-car-price-est-ml-model-app-pais2a.streamlit.app/)
 
 ---
+## 🖼️ App UI Preview
 
+Below is a screenshot of the Streamlit interface:
+
+![App UI](app_ui_screenshot.png)![image](https://github.com/user-attachments/assets/3deab9dc-9f5e-4444-9ae1-a0a178c99f78)
+
+
+---
 ## 📂 Project Structure
 
 The repository comprises the following key files:
@@ -143,9 +150,3 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, please contact [your email address].
 
 ---
-
-## 🖼️ App UI Preview
-
-Below is a screenshot of the Streamlit interface:
-
-![App UI](app_ui_screenshot.png)
